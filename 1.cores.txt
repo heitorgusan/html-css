@@ -1,0 +1,13 @@
+Cores: Padrão RGB - Red Green Blue
+
+Em Hexadecimal
+Red: _ _ Green: _ _ Blue: _ _
+0: Ausência de cor 
+F: Máximo
+Exemplo: 00FF22
+___________________________________
+
+Em rgb(red,green,blue):
+0: Ausência de cor 
+F: 255
+Exemplo: rgb(0,40,255);

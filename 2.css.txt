@@ -1,0 +1,39 @@
+CSS Aprendido:
+
+Textos:
+
+text-align: No alinhamento deles (text-align)
+font-size: No tamanho da fonte (font-size)
+font-style: Estilo da fonte
+background: Cor de fundo (background)
+color: Cor do texto (color)
+font-weight: bold 
+text-decoration:none
+
+Espaçamento e Tamanho:
+
+width: Largura
+height: Altura
+padding: Espaçamento interno
+margin: Espaçamento externo
+border: Borda
+
+
+Displays:
+
+Inline:
+Os elementos com inline não aceitam largura (width), nem altura (height), 
+o tamanho do elemento é definido pelo conteúdo que ele contém.
+É possivel usar espaçamentos internos
+
+Block:
+Os elementos block aceitam largura e altura e ocupam uma linha inteira;
+
+Inline-Block: 
+Os elementos aceitam largura e altura e não ocupam uma linha inteira;
+
+Position:
+
+Static: Posição padrão inicial do elemento
+Relativo:Posição relativa a partir da posição static a gente desloca os elementos
+Absolute: Livre para posicionar em qualquer lugar em relação ao elemento pai.

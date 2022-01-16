@@ -1,0 +1,122 @@
+h1 {
+    text-align: center;
+}
+
+.pairelative {
+    width: 900px;
+    height: 450px;
+    background: red;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 10px;
+}
+
+.block {
+    width: 300px;
+    height: 150px;
+    color: rgb(34, 29, 29);
+    font-size: 25px;
+    text-align: center;
+}
+
+.filho1 {
+    background: chartreuse;
+    position: relative;
+    left: 0px;
+    top: 300px;
+}
+
+.filho2 {
+    background: black;
+    position: relative;
+    left: 300px;
+    bottom: 0px;
+}
+
+.filho3 {
+    background: rebeccapurple;
+    position: relative;
+    bottom: 299px;
+    left: 599px;
+}
+
+.paiabsoluto {
+    width: 900px;
+    height: 450px;
+    background: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.filhoabs1 {
+    background: rgb(255, 48, 48);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.filhoabs2 {
+    background: rgb(129, 126, 126);
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+
+.filhoabs3 {
+    background: rgb(129, 252, 81);
+    position: absolute;
+    top: 300px;
+    left: 600px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.inline1 {
+    background: blue;
+    display: inline;
+}
+
+.inline2 {
+    background: rgb(217, 217, 231);
+    display: inline;
+}
+
+.inline3 {
+    background: rgb(69, 255, 140);
+    display: inline;
+}
+
+.block1 {
+    display: block;
+    background: chocolate;
+}
+
+.block2 {
+    display: block;
+    background: rgb(224, 178, 145);
+}
+
+.block3 {
+    display: block;
+    background: rgb(116, 116, 116);
+}
+
+.inlineblock1 {
+    background: darkblue;
+    display: inline-block;
+}
+
+.inlineblock2 {
+    background: rgb(170, 170, 218);
+    display: inline-block;
+}
+
+.inlineblock3 {
+    background: rgb(157, 255, 112);
+    display: inline-block;
+}
