@@ -1,0 +1,86 @@
+.caixa {
+    width: 940px;
+    margin: 0 auto;
+}
+
+header {
+    background: brown;
+    position: relative;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+nav {
+    position: absolute;
+    top: 25px;
+    left: 200px;
+}
+
+.menu-lista {
+    display: inline-block;
+}
+
+.lista-item {
+    color: rgb(255, 255, 255);
+    display: inline;
+    font-size: 26px;
+    margin-right: 25px;
+}
+
+main {
+    margin-top: 50px;
+}
+
+.transformacoes h2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.transformacoes {
+    text-align: center;
+}
+
+.transformacoes li {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    height: 30%;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+
+.transformacoes li:hover {
+    border-color: rgb(86, 253, 86);
+}
+
+.transformacoes li:hover h2 {
+    font-size: 36px;
+}
+
+.desc {
+    margin-bottom: 30px;
+}
+
+.custo {
+    font-size: 20px;
+    color: red;
+}
+
+.customana {
+    font-size: 25px;
+    color: rgb(34, 216, 240)
+}
+
+.rodape {
+    text-align: center;
+    background: #CCC;
+    margin-top: 100px;
+    padding: 50px 0;
+}

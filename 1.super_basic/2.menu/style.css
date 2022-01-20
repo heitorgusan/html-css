@@ -1,0 +1,39 @@
+.cabeca {
+    width: 100%;
+}
+
+.caixa {
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgb(0, 0, 0);
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+.menu {
+    display: inline-block;
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    font-size: 20px;
+    font-family: 'Montserrat';
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    color: red;
+}
+
+.menu-item {
+    display: inline;
+    margin-right: 20px;
+    color: white;
+}

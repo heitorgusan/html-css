@@ -1,0 +1,28 @@
+header {
+    position: relative;
+    background: rgb(31, 31, 31);
+}
+
+.logo {
+    height: 200px;
+    width: 200px;
+}
+
+ul {
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    right: 200px;
+}
+
+li {
+    display: inline;
+    color: white;
+    margin-right: 30px;
+    font-size: 30px;
+}
+
+.caixa {
+    width: 940px;
+    margin: 0 auto;
+}
