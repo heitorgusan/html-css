@@ -1,0 +1,38 @@
+header {
+    background: rgb(20, 16, 16);
+    width: 940px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+nav {}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 10px;
+    height: 30px;
+    width: 130px;
+    line-height: 30px;
+}
+
+li:hover {
+    border-bottom: 3px solid rgb(104, 255, 58);
+}
+
+li a {
+    display: inline-block;
+    color: whitesmoke;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 30px;
+    width: 130px;
+}
+
+li a:hover {
+    font-size: 22px;
+}
